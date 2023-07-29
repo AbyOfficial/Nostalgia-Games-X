@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# Nostalgia Games X
 
-## Setup
+## Info
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Nostalgia Games X - NES, SNES, Wii & Wii U, All Consoles maded In World in MC! That mod still W.I.P and im working (Only one for now)
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
